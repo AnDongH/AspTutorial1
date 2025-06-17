@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspTutorial1", "AspTutorial1\AspTutorial1.csproj", "{A40B12B0-7200-460B-A223-653225A38643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{4993DCB1-8B3D-4A51-A257-A01CFF25D09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspClient", "AspClient\AspClient.csproj", "{0E87DACA-6B83-4233-9549-2FECE8F1EBA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40B12B0-7200-460B-A223-653225A38643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40B12B0-7200-460B-A223-653225A38643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40B12B0-7200-460B-A223-653225A38643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40B12B0-7200-460B-A223-653225A38643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4993DCB1-8B3D-4A51-A257-A01CFF25D09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4993DCB1-8B3D-4A51-A257-A01CFF25D09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4993DCB1-8B3D-4A51-A257-A01CFF25D09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4993DCB1-8B3D-4A51-A257-A01CFF25D09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E87DACA-6B83-4233-9549-2FECE8F1EBA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E87DACA-6B83-4233-9549-2FECE8F1EBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E87DACA-6B83-4233-9549-2FECE8F1EBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E87DACA-6B83-4233-9549-2FECE8F1EBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
