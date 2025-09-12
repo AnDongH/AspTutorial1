@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68675d5387e927191df6dac3c20a5e7a4542ea4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc73e20a2df7b0e0cd2be09289ac7e5df45f824")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
